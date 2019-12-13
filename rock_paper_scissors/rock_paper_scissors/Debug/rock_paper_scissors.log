@@ -1,0 +1,5 @@
+﻿  exec.cpp
+c:\users\fabia\source\repos\rock_paper_scissors\rock_paper_scissors\exec.cpp(11): warning C4244: "Argument": Konvertierung von "time_t" in "unsigned int", möglicher Datenverlust
+  main.cpp
+  Code wird generiert...
+  rock_paper_scissors.vcxproj -> C:\Users\fabia\source\repos\rock_paper_scissors\Debug\rock_paper_scissors.exe
